@@ -5,7 +5,7 @@ info:
   contact: {}
   version: v4.0.1
 servers:
-- url: https://stu3.test.pyrohealth.net/fhir
+- url: 
   variables: {}
 paths:
   /Account:
